@@ -11,6 +11,7 @@ make sure to hit your terminal with a "node i"
 
 ## Usage
 The user can run the index.js and answer a series of questions to generate the readme.
+https://app.screencastify.com/v3/watch/g80fyTOISX0uTl1qR6Zm
 
 ## License
 
